@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxdang/advancedcss-and-sass-01.git"
+  },
+  "author": "Kien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kxdang/advancedcss-and-sass-01/issues"
+  },
+  "homepage": "https://github.com/kxdang/advancedcss-and-sass-01#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
